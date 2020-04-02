@@ -1,0 +1,21 @@
+.container-grid-threeThirds {
+   grid-template-columns: 1fr 1fr 1fr;
+}
+
+/*
+.container-imageAndCaption {}
+*/
+
+.container-imageAndCaption-image {
+   width: 200px;
+   height: 200px;
+   object-fit: cover;
+}
+
+.container-imageAndCaption-figcaption {
+   font-size: xx-large;
+}
+
+.container-inventory {
+   width: 100%;
+}
